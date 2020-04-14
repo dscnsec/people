@@ -2,6 +2,7 @@
 Core Team 2019-20
 
 ## Social Links
+- Github: https://github.com/faizalam
 
 ## Bio
 
