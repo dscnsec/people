@@ -1,6 +1,6 @@
 # Arnab Chanda 
 
-Core Team 2019-2010
+Core Team 2019-2020
 
 ## Social Links
 
