@@ -5,6 +5,9 @@ Core Team 2019-2010
 ## Social Links
 
 * Github: https://github.com/Arnie09
+* LinkedIn: https://www.linkedin.com/in/arnab-chanda-aa671017a/
+* Facebook: https://www.facebook.com/arnablp.chanda/
+* Website: https://arnie09.herokuapp.com
 
 ## Bio
 
