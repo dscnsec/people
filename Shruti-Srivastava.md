@@ -1,6 +1,6 @@
 # Shruti Srivastava
 
-### Core Team 2019-20
+#### Core Team 2019-20
 
 ## Social Link
 
