@@ -4,11 +4,12 @@ Core Team 2019-2020
 
 ## Social Links
 
+* Website: https://ianiket.live
 * Github: https://github.com/ani4aniket
 * LinkedIn: https://www.linkedin.com/in/ani4aniket
 * Facebook: https://www.facebook.com/ani4aniket
-* Website: https://ianiket.live
 * Twitter:https://twitter.com/ani4aniket
+* Instagram: https://instagram.com/ani4aniket
 
 ## Bio
 
