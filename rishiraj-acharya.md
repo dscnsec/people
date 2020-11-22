@@ -2,8 +2,8 @@
 Outreach Team 2019-20
 
 ## Social Links
-- Github: https://github.com/rishiraj-acharya
-- Website: https://rishiraj-acharya.github.io/info/
+- Github: https://github.com/rishiraj
+- Website: https://rishiraj.github.io/
 - Twitter: https://twitter.com/RishirajAcharya
 - Facebook: https://www.facebook.com/acharyarishiraj
 - LinkedIn: https://www.linkedin.com/in/rishirajacharya/
